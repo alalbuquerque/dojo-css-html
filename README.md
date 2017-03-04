@@ -19,3 +19,10 @@ O Coding Dojo tem algumas regras básicas:
 	- Cinza: O código foi modificado de acordo com as sugestões, mas a bateria de testes ainda não foi rodada. Deve-se evitar fazer grandes modificações no código nessa fase.
 
 Fonte: http://pet.inf.ufsc.br/dojo/o-que-eh-dojo/
+
+
+##Regras
+
+- O Coding Dojo é dividido em rodadas com tempo de 10 minutos;
+- Cada par tem uma rodada para solucionar uma parte do problema;
+- Ao final da rodada, o par interrompe seu trabalho onde estava e o copiloto assume o teclado. O piloto volta à plateia e alguém da plateia assume o posto de copiloto, para mais uma rodada.
